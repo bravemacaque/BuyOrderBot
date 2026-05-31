@@ -1,9 +1,11 @@
-# BuyOrderBot
+# BuyOrderBot [Demo]
 ```
 High-performance bot for placing Buy Orders on Steam Community Market (CS2, DOTA2, RUST, TF2).
 ```
 
 This bot is a fast and asynchronous Python-based automation tool designed to place buy orders on Steam Community Market items with minimal latency.
+
+**Note:** This repository is a showcase (demo version).
 
 If you are interested in learning more or need help with a setup, feel free to contact me **@bravemacaque** on [Discord](https://discord.com/users/1076922097441447977).
 
